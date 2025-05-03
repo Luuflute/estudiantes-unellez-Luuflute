@@ -1,0 +1,47 @@
+
+{
+    "name":"Luis Santiago",
+    "aboutMe":"Soy Luis Santiago, un estudiante apasionado de la Ingeniería en Informática. Actualmente me encuentro cursando el 7 semestre en la UNELLEZ. Mi interés por la tecnología y la resolución de problemas me ha llevado a explorar diversas áreas dentro de la informática, incluyendo desarrollo web, inteligencia artificial, ciberseguridad.",
+    "softSkills":[
+        "Liderazgo",
+        "Hulmidad",
+        "Aprendizaje",
+        "Comunicación",
+        "Adaptabilidad",
+        "Responsabilidad"
+    ],
+    "techSkills":[
+        "C++",
+        "Python",
+        "Javascript",
+        "HTML/CSS",
+    ],
+    "experience":[
+        {
+            "organization":"El Sistema",
+            "role":"Flutist",
+            "since":2014,
+            "description":"Iniciando desde estudiante hasta destacar como músico de orquesta y luego ejercer como formador y musico activo."
+        }
+        
+        {
+            "organization":"UNELLEZ",
+            "role":"Student",
+            "Since":"2021"
+            "description":"cursando el septimo semestre de la carrera de informatica y con aspiracion de graduarme de la misma."
+        }
+    ],
+    "projects":[
+        {
+            "title":"Ing en Informática - Municipio Bolívar",
+            "rol":"Promotor",
+            "description":"Luis Santiago 2004."
+        }
+    ],
+    "contact":[
+        {"name":"Github",
+        "url":"https://github.com/Luuflute",
+        "icon":"mdiGithub"
+        }
+    ]
+}
